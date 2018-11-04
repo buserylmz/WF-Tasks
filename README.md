@@ -9,5 +9,5 @@ $ node example/parse.js -a beep -b boop
 ```
 ## Install 
 
-### npm install yargs --save,
-### npm install minimist
+#### npm install yargs --save,
+#### npm install minimist
